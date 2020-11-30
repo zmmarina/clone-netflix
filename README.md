@@ -20,4 +20,4 @@
 
 <h2>:movie_camera:Result</h2>
 
-![netflixclone](https://github.com/zmmarina/FoodfyVegan/blob/master/public/assets/Foodfy-Vegan-Google-Chrome-2020-06-25-17-28-50.gif)
+![netflixclone](https://github.com/zmmarina/clone-netflix/blob/master/Netflix-Clone-Google-Chrome-2020-11-30-06-02-17.gif)
