@@ -14,7 +14,7 @@
 </ul>
 
 <h2>:tv:Access</h2>
-<a href="zm-netflix-clone.netlify.app>Click here!</a>
+
 <p><strong>zm-netflix-clone.netlify.app</strong></p>
 
 
